@@ -1,0 +1,23 @@
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+
+font-weight: bold;
+margin: 30px;
+
+}
+p{
+    font-size: 35px;
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: green;
+}
